@@ -1,7 +1,7 @@
 const config = {
     buttons: [{
             id: 'rammerhead-browser',
-            iframeSrc: window.location.protocol + '//study.' + window.location.hostname + '/',
+            iframeSrc: 'https://interstellar-azure-nine.vercel.app/',
             defaultWidth: 50,
             defaultHeight: 80,
             buttonText: 'Rammerhead',
